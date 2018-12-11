@@ -30,9 +30,6 @@ h1, h2 {color: #D34C26;
 border-radius: 50%;
 }
 
-.img-border {
-border-radius: 80%;
-}
 
 @media (max-width: 960px){
 	.container{
@@ -50,4 +47,15 @@ border-radius: 80%;
 	.container{
 		width: 300px;
 	}
+}
+.btn-blue {
+	background-color: #144C52;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Robot', sans-serif;
+	margin-top: 10px;
+
+}
 }
